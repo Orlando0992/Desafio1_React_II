@@ -1,0 +1,30 @@
+.contacto {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    height: 65vh;
+}
+
+.container-form h2 {
+    margin-bottom: 15px;
+    font-size: 35px;
+}
+
+.container-form p {
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+.container-datos {
+    display: flex;
+    flex-direction: column;
+    padding: 70px;
+}
+
+.container-datos textarea {
+    width: 200%;
+}
+
+input {
+    margin: 10px 0px;
+}

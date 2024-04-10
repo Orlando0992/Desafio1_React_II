@@ -1,0 +1,17 @@
+h2 {
+    color: #4d3126;
+    font-size: 35px;
+    padding: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.galeria {
+    background-color:rgba(241, 240, 235, 0.904);
+}
+
+.productos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
